@@ -22,7 +22,7 @@ npm test
 
 ## Final Product
 
-!["Screenshot of the game Page"](https://github.com/lateefazeez/scheduler/blob/master/docs/App%20Main%20page.png?raw=true)
+!["Screenshot of the game Page"](https://github.com/lateefazeez/Memory-game/blob/master/memory-game/public/img/Screen%20Shot%202021-12-04%20at%201.36.45%20PM.png?raw=true)
 
 
 ## Dependencies
