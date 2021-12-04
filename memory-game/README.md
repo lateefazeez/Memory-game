@@ -27,11 +27,5 @@ npm test
 
 ## Dependencies
 
-- Express
-- Axios
 - Node 5.10.x or above
 - React 16.4.x or above
-- Node-Sass
-- React Testing Library
-- Storybook Testing App
-- Cypress
